@@ -745,7 +745,7 @@
       <Project>{70a25201-8ea4-48f8-a4a6-ed13adf8823c}</Project>
       <Name>CheckBoxComboBox</Name>
     </ProjectReference>
-    <ProjectReference Include="..\lib\Microsoft.Web.Administration\Microsoft.Web.Administration\Microsoft.Web.Administration.csproj">
+    <ProjectReference Include="..\Microsoft.Web.Administration\Microsoft.Web.Administration.csproj">
       <Project>{BD24AFDA-292F-4F41-BA80-C48F21D4D9F2}</Project>
       <Name>Microsoft.Web.Administration</Name>
     </ProjectReference>

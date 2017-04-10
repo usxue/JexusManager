@@ -542,7 +542,7 @@
       <Project>{BE76A6FE-225F-4287-9CA0-231F5AF4CDC1}</Project>
       <Name>MakarovDev.ExpandCollapsePanel</Name>
     </ProjectReference>
-    <ProjectReference Include="..\lib\Microsoft.Web.Administration\Microsoft.Web.Administration\Microsoft.Web.Administration.csproj">
+    <ProjectReference Include="..\Microsoft.Web.Administration\Microsoft.Web.Administration.csproj">
       <Project>{BD24AFDA-292F-4F41-BA80-C48F21D4D9F2}</Project>
       <Name>Microsoft.Web.Administration</Name>
     </ProjectReference>
